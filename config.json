@@ -1,0 +1,116 @@
+{
+    "Results": {
+        "1": [
+            [
+                "Greg",
+                "Azalea",
+                "Nedrick",
+                "Gilford"
+            ],
+            [
+                "Bexley",
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ]
+        ],
+        "2": [
+            [
+                "Greg",
+                "Nedrick",
+                "Bexley",
+                "Amaia"
+            ],
+            [
+                "Azalea",
+                "Gilford",
+                "Steven",
+                "Enrique"
+            ]
+        ],
+        "3": [
+            [
+                "Greg",
+                "Azalea"
+            ],
+            [
+                "Nedrick",
+                "Gilford",
+                "Bexley",
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ]
+        ],
+        "4": [
+            [
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ],
+            [
+                "Greg",
+                "Azalea",
+                "Nedrick",
+                "Gilford",
+                "Bexley"
+            ]
+        ],
+        "5": [
+            [
+                "Greg",
+                "Azalea",
+                "Nedrick",
+                "Gilford"
+            ],
+            [
+                "Bexley",
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ]
+        ],
+        "6": [
+            [
+                "Greg",
+                "Nedrick",
+                "Gilford",
+                "Bexley"
+            ],
+            [
+                "Azalea",
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ]
+        ],
+        "7": [
+            [
+                "Greg",
+                "Azalea",
+                "Nedrick"
+            ],
+            [
+                "Gilford",
+                "Bexley",
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ]
+        ],
+        "8": [
+            [
+                "Greg",
+                "Steven",
+                "Amaia",
+                "Enrique"
+            ],
+            [
+                "Azalea",
+                "Nedrick",
+                "Gilford",
+                "Bexley"
+            ]
+        ]
+    }
+}

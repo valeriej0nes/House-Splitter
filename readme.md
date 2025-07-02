@@ -1,5 +1,8 @@
 # House Splitter
-The purpose of this project is to aid decision-making required to split a group into houses.
+### Background
+When our large group of friends faced the tricky challenge of deciding how to split into different houses, it quickly became clear that doing it fairly and without hurting anyone’s feelings, was no easy task. But as a data scientist, I saw a way forward: let the data guide us.
+
+So, I built a tool designed to take the guesswork and awkwardness out of the equation. It lets everyone indicate who they’d like to live with, then visualizes that input through a sociogram highlighting the strongest connections, along with a compatibility chart that offers clear, data-driven insights. The goal? A smoother, more objective way to form house groups—based not on guesswork, but on real preferences.
 
 ----
 ## How to use
